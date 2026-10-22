@@ -2,6 +2,7 @@ name: RDP
 
 on:
   workflow_dispatch:
+  push: 
 
 jobs:
   secure-rdp:
